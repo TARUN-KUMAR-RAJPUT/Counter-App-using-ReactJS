@@ -1,0 +1,26 @@
+.btn {
+
+    color: black;
+    height: 1cm;
+    background-color: teal;
+    width: 1.7cm;
+    border-width: 4px;
+    margin-right: 22cm;
+}
+
+
+.box {
+
+    margin-left: 5cm;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    width: 8cm;
+    height: 12cm;
+    border: 5px solid black;
+    background-color: blueviolet;
+}
+
+.font {
+
+    font-size: 5cm;
+}
